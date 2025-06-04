@@ -24,3 +24,8 @@
 
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe_Lightroom-31A8FF?style=flat-square&logo=adobe-lightroom&logoColor=white)
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" alt="Adobe Premiere Pro"/>
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Adobe Photoshop"/>
+  <img src="https://img.shields.io/badge/Adobe_Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white" alt="Adobe Lightroom"/>
+</p>
